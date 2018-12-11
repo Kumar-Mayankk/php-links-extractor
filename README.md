@@ -1,4 +1,4 @@
 php-links-extractor
 ===================
 
-Recursively extract all the links from a website
+code to extract all links from a ebpage
